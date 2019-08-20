@@ -1,0 +1,17 @@
+*.ncb
+
+# debug
+./debug/
+
+# release
+./release/
+
+# backup
+./Backup/
+
+# vs
+./.vs/
+
+# project
+./Bids/Debug/
+./Bids/Release/
