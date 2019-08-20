@@ -1,17 +1,17 @@
 *.ncb
 
 # debug
-./debug
+/debug
 
 # release
-./release
+/release
 
 # backup
-./Backup
+/Backup
 
 # vs
-./.vs/
+/.vs
 
 # project
-./Bids/Debug
-./Bids/Release
+/Bids/Debug
+/Bids/Release
