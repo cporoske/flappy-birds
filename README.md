@@ -3,9 +3,9 @@ A simple game mimit based Win32 SDK imitating the flappy birds.It is finished at
 
 ## Screenshot
 
-![img1](http://pw9l1zd1z.bkt.clouddn.com/flappy-1.png "img1")
-![img2](http://pw9l1zd1z.bkt.clouddn.com/flappy-2.png "img2")
-![img2](http://pw9l1zd1z.bkt.clouddn.com/flappy-3.png "img2")
+![img1](https://raw.githubusercontent.com/cporoske/flappy-birds/master/images/flappy-1.png "img1")
+![img2](https://raw.githubusercontent.com/cporoske/flappy-birds/master/images/flappy-2.png  "img2")
+![img2](https://raw.githubusercontent.com/cporoske/flappy-birds/master/images/flappy-3.png  "img2")
 
 ## Structure of Program
 * `AppOption.h` defines the configuration of the game, such as `windowName`,`windowWidth`,etc.And in this file, it defines a simple macro to judge whether the role is hitting or not.
